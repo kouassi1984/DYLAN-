@@ -1,0 +1,7 @@
+{
+  "name": "JerseyFusion AI",
+  "description": "A specialized AI tool to merge soccer jerseys onto players and modify kit details using Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
